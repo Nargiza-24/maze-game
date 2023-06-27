@@ -1,1 +1,1 @@
-# rayana_graduate
+Игра Лабиринт на библиотеке PyGame
